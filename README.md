@@ -20,3 +20,7 @@ This project is a simple Sudoku board validator written in C that uses multithre
 
 - GCC Compiler
 - POSIX Threads (pthreads)
+
+## Contact
+
+If you have any questions or suggestions, feel free to contact me at [ayushsharma131719@gmail.com](mailto:ayushsharma131719@gmail.com).
